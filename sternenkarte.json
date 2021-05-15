@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"strene.json"
+                 "value":"sterne.json"
                 }],
          "type":"tilelayer",
          "visible":true,
