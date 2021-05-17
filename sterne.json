@@ -175,7 +175,7 @@
          "id":20,
          "name":"sterne",
          "opacity":0.48,
-         "parallaxx":1.05,
+         "parallaxx":1.5,
          "type":"tilelayer",
          "visible":true,
          "width":100,
